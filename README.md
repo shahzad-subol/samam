@@ -1,1 +1,1 @@
-# samam-help
+# samam
