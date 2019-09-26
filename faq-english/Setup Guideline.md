@@ -3,6 +3,8 @@ Please get the Sensor and Shut Off unit out from the box. Installation starts wi
 <p><strong>Mobile App Setup</strong></p>
 Please get Samam mobile application from App Store or Google Play Store.
 
+<img src="image/register_5.5.jpeg" width="100" >
+
 Step 1: Registration
 
 Please fill the blanks on the mobile app registration form and click Register button to submit information. Then, a pop-up will appear.
