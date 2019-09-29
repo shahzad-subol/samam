@@ -10,7 +10,7 @@ Step 1: Registration
 
 Please fill the blanks on the mobile app registration form and click Register button to submit information. Then, a pop-up will appear.
 
-Step 2 : SMS Verification.
+Step 2 : SMS Verification
 
 Enter the code received in the SMS message sent to the phone number entered in step 1.
 
