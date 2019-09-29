@@ -3,6 +3,7 @@ Placing the Sensor:
 Please unpack the sensor device and place it on the wall according to the instructions explained below.
 
 <img src="images/register_5.5.jpeg" width="300" >
+
 <img src="images/register_5.5.jpeg" width="300" >
 
 1.Sensor should be close to the oven. So in case of leakage it detects in early state.
